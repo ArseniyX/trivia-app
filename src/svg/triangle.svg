@@ -1,0 +1,6 @@
+<div class="triangle-container">
+	  <svg width="10px" height="10px" fill="#FCC822">
+		    <polygon points="10 0, 0 0, 5 10" class="triangle" />
+		    Sorry, your browser does not support inline SVG.
+	  </svg>
+</div>
